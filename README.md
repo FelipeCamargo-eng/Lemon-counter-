@@ -48,7 +48,8 @@ This project consists of the use of a PIC16F15244 Curiosity Nano, in order to ca
 
 ![image](https://user-images.githubusercontent.com/79653676/119372461-f5c18880-bc7c-11eb-8112-9e4440a811ba.png)
 
-![image](https://user-images.githubusercontent.com/79653676/119372601-1ab5fb80-bc7d-11eb-8cb6-b20effdf8c49.png)
+![Image](https://user-images.githubusercontent.com/80799408/119563754-968f7100-bd6d-11eb-8125-549263676e8a.jpeg)
+
 
 # setup 
 1. Connect the PIC16f15244 Curiosity Nano board to a PC using the Micro-USB to USB 2.0 cable.
